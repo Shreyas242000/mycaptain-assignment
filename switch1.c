@@ -7,10 +7,16 @@ void main()
     switch (choice)
     {
 
-    case1:printf("french price, Rs-99");
+    case1:
+	{
+	printf("french price, Rs-99");
+}		
     break;
-    case2:printf("burger Rs- 129");
+    {
+ case2:printf("burger Rs- 129");
     break;
+}
+
     case3:printf("pasta Rs- 179");
     break;
     case4:printf("pizza RS 239");
